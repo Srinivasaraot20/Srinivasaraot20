@@ -68,8 +68,6 @@ I am a driven and curious engineer passionate about using technology to solve re
 
 ## 📫 Let's Connect
 
-- 📧 Email: [talari.srinivasarao20@gmail.com](mailto:talari.srinivasarao20@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/srinivasaraotalari](https://linkedin.com/in/srinivasaraotalari)
 - 🐱 GitHub: [@Srinivasaraot20](https://github.com/Srinivasaraot20)
 
 ---
